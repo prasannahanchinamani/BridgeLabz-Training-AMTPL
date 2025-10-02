@@ -11,24 +11,21 @@ import java.util.List;
 
 @RestController
 public class UserController {
+    final UserService service;
 
-    private final UserService userService;
-
-    public UserController(UserService userService) {
-        this.userService = userService;
+    public UserController(UserService service) {
+        System.out.println("controller constructor");
+        this.service = service;
     }
 
     @PostMapping("/addUser")
-    public String addUser(@RequestParam String name, @RequestParam Long contact) {
-        User user = new User(name, contact);
-        userService.addUserSerive(user);
-
-        // Return hashcode as confirmation
-        return "User added with hashcode: " + user.hashCode();
+    public String callService(@RequestParam String name, @RequestParam Long contact) {
+        service.callRepo(name, contact);
+        return "User processed";
     }
 
-    @GetMapping("/users")
-    public List<User> getAllUsers() {
-        return userService.getUserService();
+    @GetMapping("/getUser")
+    public String getuser() {
+        return service.toString();
     }
 }
