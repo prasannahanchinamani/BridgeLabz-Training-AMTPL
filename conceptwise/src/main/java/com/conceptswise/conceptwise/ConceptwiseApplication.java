@@ -1,7 +1,9 @@
 package com.conceptswise.conceptwise;
 
+import com.conceptswise.conceptwise.controller.UserController;
 import com.conceptswise.conceptwise.entities.User;
 import com.conceptswise.conceptwise.repository.UserRepo;
+import com.conceptswise.conceptwise.service.UserService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
@@ -14,8 +16,7 @@ public class ConceptwiseApplication {
         System.out.println("Started the ConceptWise.........");
         System.out.println("ApplicationContext hashcode: " + context.hashCode());
 //        context.close();
-        UserRepo userRepo = context.getBean(UserRepo.class);
-        userRepo.fieldInjectionRepo();
-        context.close();
+//        UserController service = context.getBean(UserController.class);
+
     }
 }
