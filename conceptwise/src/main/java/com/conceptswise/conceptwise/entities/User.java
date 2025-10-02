@@ -2,36 +2,38 @@ package com.conceptswise.conceptwise.entities;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-@NoArgsConstructor
+//@Component
 @Getter
 @Setter
-//@Component
 public class User {
-    String user_name;
-    Long Contact_number;
+    private String userName;
+    private Long contactNumber;
 
-//    @Autowired
-    public User(String user_name, Long contact_number) {
-        System.out.println("user constructor");
-        this.user_name = user_name;
-        Contact_number = contact_number;
+    public User() {
+        System.out.println("User no-arg constructor called");
     }
 
-     @PostConstruct
-    public void user_method() {
-         System.out.println("IntialisationBean : Interface after Bean is Created");
-        System.out.println("From user method: " + this.hashCode());
+    public User(String userName, Long contactNumber) {
+        System.out.println("User constructor with args called");
+        this.userName = userName;
+        this.contactNumber = contactNumber;
     }
+
+    @PostConstruct
+    public void init() {
+        System.out.println("User @PostConstruct: Bean initialized");
+    }
+
     @PreDestroy
-    public void destroy(){
-        System.out.println("DisposableBean before bean Destroy:");
-        System.out.println("From user Method "+this.hashCode());
+    public void destroy() {
+        System.out.println("User @PreDestroy: Bean destroyed");
+    }
+
+    public void showUser() {
+        System.out.println("User: " + userName + ", Contact: " + contactNumber);
     }
 }
