@@ -1,6 +1,16 @@
 package net.springcores.entities;
 
+import jakarta.annotation.PostConstruct;
+import jakarta.annotation.PreDestroy;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+@Component
 public class Car {
+    @Autowired
+    @Qualifier("DISEL")
     private Engine engine;
     private String model;
 
@@ -9,8 +19,20 @@ public class Car {
         this.engine = engine;
     }
     //setter injection
+    @Value("Polo Gt")
     public void setModel(String model){
         this.model=model;
+    }
+    // init method
+    @PostConstruct
+    public void init() {
+        System.out.println(" Car bean is initialized!");
+    }
+
+    // destroy method
+    @PreDestroy
+    public void destroy() {
+        System.out.println(" Car bean is being destroyed!");
     }
 
     @Override

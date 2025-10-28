@@ -1,12 +1,18 @@
 package net.springcores.entities;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+
+@Component("DISEL")
+//@Qualifier("DISEL")
 public class Engine {
-    private String type;
+    private String type="disel";
 
     public Engine() {
 
     }
-
+//   @Autowired
     public Engine(String type) {
         this.type = type;
     }
