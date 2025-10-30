@@ -1,4 +1,4 @@
-package net.springcores;
+package net.springcores.basic.configuration;//package net.springcores;
 
 import net.springcores.basic.configuration.Appconfig;
 import net.springcores.basic.configuration.entities.Car;

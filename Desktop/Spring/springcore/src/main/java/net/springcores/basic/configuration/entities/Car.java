@@ -1,4 +1,4 @@
-package net.springcores.entities;
+package net.springcores.basic.configuration.entities;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
