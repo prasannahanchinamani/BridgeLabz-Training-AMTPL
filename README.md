@@ -20,3 +20,19 @@ Topics Learned
 - if / else if / else
 - switch-case
 
+###### 13-Nov-2025
+Today I covered the following topics and updated the repository accordingly:
+Topics Learned
+- Arrays 
+- String
+- StringBuilder 
+- Logical Promblems
+
+
+###### 14-Nov-2025
+Today I covered the following topics and updated the repository accordingly:
+Topics Learned
+- Class 
+- Object
+- OOPS
+  
