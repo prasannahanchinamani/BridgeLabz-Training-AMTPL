@@ -32,6 +32,12 @@ Topics Learned
 ###### 14-Nov-2025
 Today I covered the following topics and updated the repository accordingly:
 Topics Learned
+- Classes 
+- Objects
+- OOP (Theory)
+
+Today I covered the following topics and updated the repository accordingly:
+Topics Learned
 - Class 
 - Object
 - OOPS
