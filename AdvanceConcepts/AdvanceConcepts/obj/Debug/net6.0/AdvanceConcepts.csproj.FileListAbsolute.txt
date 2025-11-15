@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\bin\Debug\net6.0\AdvanceConcepts.exe
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\bin\Debug\net6.0\AdvanceConcepts.deps.json
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\bin\Debug\net6.0\AdvanceConcepts.runtimeconfig.json
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\bin\Debug\net6.0\AdvanceConcepts.dll
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\bin\Debug\net6.0\AdvanceConcepts.pdb
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\AdvanceConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\AdvanceConcepts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\AdvanceConcepts.AssemblyInfo.cs
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\AdvanceConcepts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\AdvanceConcepts.sourcelink.json
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\AdvanceConcepts.dll
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\refint\AdvanceConcepts.dll
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\AdvanceConcepts.pdb
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\AdvanceConcepts.genruntimeconfig.cache
+C:\Users\User\Desktop\DOTNET\AdvanceConcepts\AdvanceConcepts\obj\Debug\net6.0\ref\AdvanceConcepts.dll
