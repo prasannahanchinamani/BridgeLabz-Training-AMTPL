@@ -40,5 +40,8 @@ Today I covered the following topics and updated the repository accordingly:
 Topics Learned
 - Class 
 - Object
-- OOPS
+- OOPS (Inheritance,Encapsulation,Polymorphism,Abstraction)
+- ToString()-> to get the content Over the address
+- Overriding and Overloading (virtual and abstact methods only override)
+  
   
