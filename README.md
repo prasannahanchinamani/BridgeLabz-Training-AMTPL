@@ -19,6 +19,7 @@ Topics Learned
 - Conditional Statements in C#
 - if / else if / else
 - switch-case
+- with Logical Questions
 
 ###### 13-Nov-2025
 Today I covered the following topics and updated the repository accordingly:
@@ -35,12 +36,18 @@ Topics Learned
 - Classes 
 - Objects
 - OOP (Theory)
-
+- 
+###### 15-Nov-2025
 Today I covered the following topics and updated the repository accordingly:
 Topics Learned
 - Class 
 - Object
 - OOPS (Inheritance,Encapsulation,Polymorphism,Abstraction)
 - ToString()-> to get the content Over the address
+
+###### 16-Nov-2025
+-Methods 
 - Overriding and Overloading (virtual and abstact methods only override)
-  
+-Anonymous Method in C#
+
+
