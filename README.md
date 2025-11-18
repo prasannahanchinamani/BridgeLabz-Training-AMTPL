@@ -50,6 +50,9 @@ Topics Learned
     ###### 16-Nov-2025
   -- nullable data type
   -- static and non static binding
+  --methods and its types
+  --Types of constructors
+  
   
   
   
