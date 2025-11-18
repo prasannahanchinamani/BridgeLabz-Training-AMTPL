@@ -43,21 +43,17 @@ Topics Learned
 - Class 
 - Object
 - OOPS (Inheritance,Encapsulation,Polymorphism,Abstraction)
-- ToString()-> to get the content Over the address
+
   ###### 16-Nov-2025
   -- OOPS (Inheritance,Encapsulation,Polymorphism,Abstraction)
   -- static vs non static  in different context
-    ###### 16-Nov-2025
+    ###### 17-Nov-2025
   -- nullable data type
   -- static and non static binding
   --methods and its types
   --Types of constructors
-  
-  
-  
-  
 
-###### 16-Nov-2025
+###### 18-Nov-2025
 -Methods 
 - Overriding and Overloading (virtual and abstact methods only override)
 -Anonymous Method in C#
