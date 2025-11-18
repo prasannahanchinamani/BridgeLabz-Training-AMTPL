@@ -44,6 +44,15 @@ Topics Learned
 - Object
 - OOPS (Inheritance,Encapsulation,Polymorphism,Abstraction)
 - ToString()-> to get the content Over the address
+  ###### 16-Nov-2025
+  -- OOPS (Inheritance,Encapsulation,Polymorphism,Abstraction)
+  -- static vs non static  in different context
+    ###### 16-Nov-2025
+  -- nullable data type
+  -- static and non static binding
+  
+  
+  
 
 ###### 16-Nov-2025
 -Methods 
