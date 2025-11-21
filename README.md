@@ -58,4 +58,10 @@ Topics Learned
 - Overriding and Overloading (virtual and abstact methods only override)
 -Anonymous Method in C#
 
+###### 20-Nov-2025
+--workshop and review
+###### 21-Nov-2025
+Address Book Management (oops)
+
+
 
