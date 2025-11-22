@@ -63,5 +63,9 @@ Topics Learned
 ###### 21-Nov-2025
 Address Book Management (oops)
 
+###### 22-Nov-2025
+Address Book Management (oops)
+SnakeAndLadder Promblem
+Struct And Delegate
 
 
