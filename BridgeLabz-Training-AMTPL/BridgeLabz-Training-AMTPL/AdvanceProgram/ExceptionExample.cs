@@ -1,17 +1,34 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BridgeLabz_Training_AMTPL.AdvanceProgram
 {
-    internal class ExceptionExample
+    public class ExceptionExample
     {
-    public class InvalidAge : Exception
+        public class InvalidAgeException : Exception
         {
-          
+            public InvalidAgeException(string message) : base(message) { }
+        }
+        public static void ValidateAge()
+        { 
+              Console.WriteLine("Enter your age:");
+              int age = Convert.ToInt32(Console.ReadLine());
+            try
+            {
+                if (age < 18)
+                {
+                    throw new InvalidAgeException("Age must be Valid must be over 18 vote");
+                }
+            }catch(InvalidAgeException e)
+            {
+                Console.WriteLine($"Caught Exception,{e.Message}");
+            }
+
+        }
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Age Validator ");
+            ExceptionExample.ValidateAge();
+             
         }
     }
 }

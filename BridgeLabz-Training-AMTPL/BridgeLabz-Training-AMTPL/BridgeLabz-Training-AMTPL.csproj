@@ -6,8 +6,12 @@
     <RootNamespace>BridgeLabz_Training_AMTPL</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject></StartupObject>
+    <StartupObject>BridgeLabz_Training_AMTPL.AdvanceProgram.BuiltInException</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Cl.cs" />
+  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="CoreProgramming\" />
