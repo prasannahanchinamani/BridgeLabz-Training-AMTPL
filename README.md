@@ -62,10 +62,21 @@ Topics Learned
 --workshop and review
 ###### 21-Nov-2025
 Address Book Management (oops)
+Snake and ladder
 
 ###### 22-Nov-2025
 Address Book Management (oops)
 SnakeAndLadder Promblem
 Struct And Delegate
+
+###### 23 -Nov DSA
+Access Modifiers
+Execption And Excetion handling
+
+#### 24 -Nov Collection FrameWork
+#List
+#Set
+#Dictionary
+
 
 
