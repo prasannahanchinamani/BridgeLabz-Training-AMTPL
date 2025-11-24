@@ -1,5 +1,6 @@
 .vs/
 *.vscode/
+<<<<<<< HEAD
 .obj/
 *.exe
 *.dll
@@ -11,3 +12,7 @@
 *.bak
 *.swp
 .bin/
+=======
+/bin/
+/obj/
+>>>>>>> feature/basiccsharp

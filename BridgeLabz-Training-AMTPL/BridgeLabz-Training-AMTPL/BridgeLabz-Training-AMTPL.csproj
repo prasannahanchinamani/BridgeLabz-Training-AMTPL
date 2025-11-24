@@ -6,10 +6,21 @@
     <RootNamespace>BridgeLabz_Training_AMTPL</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+<<<<<<< HEAD
     <StartupObject></StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
+=======
+    <StartupObject>BridgeLabz_Training_AMTPL.AdvanceProgram.BuiltInException</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Cl.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+>>>>>>> feature/basiccsharp
     <Folder Include="CoreProgramming\" />
     <Folder Include="AdvanceProgramming\" />
     <Folder Include="LogicalQuestions\" />
