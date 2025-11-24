@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\DOTNETANDCSHARP\BridgeLabz-Training-AMTPL\BridgeLabz-Training-AMTPL\obj\Debug\net6.0\BridgeLabz-Training-AMTPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DOTNETANDCSHARP\BridgeLabz-Training-AMTPL\BridgeLabz-Training-AMTPL\obj\Debug\net6.0\BridgeLabz-Training-AMTPL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DOTNETANDCSHARP\BridgeLabz-Training-AMTPL\BridgeLabz-Training-AMTPL\obj\Debug\net6.0\BridgeLabz-Training-AMTPL.AssemblyInfo.cs
+C:\Users\User\Desktop\DOTNETANDCSHARP\BridgeLabz-Training-AMTPL\BridgeLabz-Training-AMTPL\obj\Debug\net6.0\BridgeLabz-Training-AMTPL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DOTNETANDCSHARP\BridgeLabz-Training-AMTPL\BridgeLabz-Training-AMTPL\obj\Debug\net6.0\BridgeLabz-Training-AMTPL.sourcelink.json
