@@ -73,10 +73,24 @@ Struct And Delegate
 Access Modifiers
 Execption And Excetion handling
 
-#### 24 -Nov Collection FrameWork
+#### 24 -Nov 
+Regex Expression 
+Collection frame work
+
+
+#### 25- Nov
 #List
 #Set
 #Dictionary
 
+### 26
+Mobile Number validation 
+email validation
+Some Promblems on collections
+
+#### 27 
+No 
+
+#### 28
 
 
