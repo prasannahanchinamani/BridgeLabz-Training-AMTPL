@@ -6,7 +6,7 @@
     <RootNamespace>BridgeLabz_Training_AMTPL</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabz_Training_AMTPL.RegexExp.ValidateEmail</StartupObject>
+    <StartupObject>BridgeLabz_Training_AMTPL.AdvanceProgram.BuiltInException</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
