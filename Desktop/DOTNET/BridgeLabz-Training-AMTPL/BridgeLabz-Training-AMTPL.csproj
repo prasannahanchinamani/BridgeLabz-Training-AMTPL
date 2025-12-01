@@ -25,4 +25,8 @@
     <Compile Remove="Cl.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="LINQ\" />
+  </ItemGroup>
+
 </Project>
