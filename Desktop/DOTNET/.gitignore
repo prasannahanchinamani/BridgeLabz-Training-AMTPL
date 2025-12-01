@@ -1,0 +1,43 @@
+.vs/
+*.vscode/
+/bin/
+/obj/
+
+# Ignore system folders
+Documents/
+Downloads/
+Pictures/
+Videos/
+Music/
+Saved Games/
+OneDrive/
+AppData/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Searches/
+
+# Ignore IDE and build folders
+.vs/
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.lnk
+desktop.ini
+
+# Ignore unrelated folders
+Spring/
+java/
+Hibernate/
+DOTNETANDCSHARP/
+PYTHON/
+REACT/
+JAVASCRIPT/
+FrontEnd/
+JOB/
+NOTES/
+EmailReplay/
+bankManagementSystem/
+property-management/

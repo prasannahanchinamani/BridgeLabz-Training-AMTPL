@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>BridgeLabz_Training_AMTPL</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>BridgeLabz_Training_AMTPL.LambdaExpression.LamdaExpression</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AdvanceProgramming\**" />
+    <Compile Remove="CoreProgramming\**" />
+    <Compile Remove="LogicalQuestions\**" />
+    <EmbeddedResource Remove="AdvanceProgramming\**" />
+    <EmbeddedResource Remove="CoreProgramming\**" />
+    <EmbeddedResource Remove="LogicalQuestions\**" />
+    <None Remove="AdvanceProgramming\**" />
+    <None Remove="CoreProgramming\**" />
+    <None Remove="LogicalQuestions\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Cl.cs" />
+  </ItemGroup>
+
+</Project>
