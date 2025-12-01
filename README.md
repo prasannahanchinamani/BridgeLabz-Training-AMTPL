@@ -98,9 +98,13 @@ WorkShops
 Attributes
 structs
 
+#### 30 
+Custom Attribute implementation
+Delegates
 
+#####  Dec 1
+Reflaction
+Reflaction with custome attributes
 
-
-#### 28
 
 
