@@ -103,8 +103,12 @@ Custom Attribute implementation
 Delegates
 
 #####  Dec 1
-Reflaction
-Reflaction with custome attributes
+Reflection
+Reflection with custom attributes
+
+######   Dec 2
+LINQ  implementations
+DateTime implementations
 
 
 
