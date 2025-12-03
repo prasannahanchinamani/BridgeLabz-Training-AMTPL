@@ -110,5 +110,9 @@ Reflection with custom attributes
 LINQ  implementations
 DateTime implementations
 
+######   Dec 3
+Delegate Closure Events
+implemenatations of all 
+
 
 
