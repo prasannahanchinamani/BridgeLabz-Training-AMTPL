@@ -30,6 +30,17 @@ namespace BridgeLabz_Training_AMTPL.LamdaExpression
             var sortedBasedOnRollNumber=students.OrderBy(x => x.RollNo);
             foreach (var s in sortedBasedOnRollNumber)
                 Console.WriteLine($"{s.RollNo} {s.Name}");
+
+
+
+            Func<int, int> sqaure = x => x * x;
+            Console.WriteLine(sqaure(2));
+
+
+            Action<int> consume = x => Console.WriteLine("Consumer");
+
+            Predicate<int> resToF = x => x % 2 == 0;
+            Console.WriteLine($"Is Even  {resToF(2)} ");
         }
     }
 }
