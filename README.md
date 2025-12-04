@@ -114,5 +114,13 @@ DateTime implementations
 Delegate Closure Events
 implemenatations of all 
 
+######   Dec 4
+UML diagram
+Class Diagram
+Sequence Diagram
+Object Diagram
+File IO
+
+
 
 
