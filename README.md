@@ -121,6 +121,16 @@ Sequence Diagram
 Object Diagram
 File IO
 
+###### Dec 5
+Workshop and Review
+Sorting Techniques O(n2)
+
+
+###### Dec 6
+Sorting Techniques 0(n log n) merge sort
+Icomparer and IComparabale
+
+##### Dec 7
 
 
 
