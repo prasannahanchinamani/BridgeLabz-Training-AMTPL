@@ -130,7 +130,13 @@ Sorting Techniques O(n2)
 Sorting Techniques 0(n log n) merge sort
 Icomparer and IComparabale
 
-##### Dec 7
+##### Dec 7 AND 8
+NUNIT
 
+##### Dec 9 AND 10 
+DATABASE
+TRASACTION 
+NORMALIZATION,ACID PROPERTY
+INDEX
 
 
