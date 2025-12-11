@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeLabz-Training-AMTPL", "BridgeLabz-Training-AMTPL\BridgeLabz-Training-AMTPL.csproj", "{CC6FF055-9F6A-489F-92B9-6EC4A57B51E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{EE4C31F3-A2FE-4972-A091-549EBDACE839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTesting", "CalculatorTesting\CalculatorTesting.csproj", "{3C062159-E653-4CD7-8F87-A61E6EEBC009}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{CC6FF055-9F6A-489F-92B9-6EC4A57B51E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6FF055-9F6A-489F-92B9-6EC4A57B51E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6FF055-9F6A-489F-92B9-6EC4A57B51E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4C31F3-A2FE-4972-A091-549EBDACE839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4C31F3-A2FE-4972-A091-549EBDACE839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4C31F3-A2FE-4972-A091-549EBDACE839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4C31F3-A2FE-4972-A091-549EBDACE839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C062159-E653-4CD7-8F87-A61E6EEBC009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C062159-E653-4CD7-8F87-A61E6EEBC009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C062159-E653-4CD7-8F87-A61E6EEBC009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C062159-E653-4CD7-8F87-A61E6EEBC009}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
