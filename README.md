@@ -141,4 +141,12 @@ INDEX
 
 ##### Dec 11
 ADO.NET
+##### Dec 12 13 14
+AddressBook System
+ ##### DEC 15 16 17 18
+ Backend
+ EF core
+ Dependency injection
+ 
+
 
