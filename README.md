@@ -147,6 +147,11 @@ AddressBook System
  Backend
  EF core
  Dependency injection
+
+ ### DEC 22 
+ SMTP --> implementation By using MailService
+ postman -> to test api
+ 
  
  ##### DEC 19 20 21 
 BackEnd
