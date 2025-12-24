@@ -151,6 +151,11 @@ AddressBook System
  ### DEC 22 
  SMTP --> implementation By using MailService
  postman -> to test api
+
+ ### DEC 23 24
+ Reddis ->
+ and its Implementation
+ 
  
  
  ##### DEC 19 20 21 
